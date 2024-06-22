@@ -10,7 +10,6 @@ code of html
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>HEALTH CARE CLINIC</title>
-    <meta name="description" content="Medilix - Healthcare & Medical Bootstrap HTML5 Template">
     <meta name="author" content="ahmmedsabbirbd">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- CSS here -->
@@ -638,8 +637,11 @@ code of html
                     <div class="col-lg-3 col-6">
                         <div class="footer-3__widget footer-3__widget-item-1">
                             <div class="footer-3__logo mb-30 mb-xs-25">
-                                <a href="#"">
-                                <img class=" img-fluid" src="assets/imgs/logo/logo-white.svg" alt="logo not found">
+                                <a href="#""#">
+                                    <div class="logo">
+                                        <img src="assets/imgs/ask-quesiton/heart.png" alt="icon not found"
+                                            class="img-fluid">HEALTH CARE CLINIC
+                                    </div>
                                 </a>
                             </div>
 
